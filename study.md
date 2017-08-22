@@ -69,7 +69,7 @@ Copy the JSON that you wrote for the previous question and include the new infor
 
 Can you write a method in the JSON that you wrote above?
 
-```json
+```md
 <!-- your answer here -->
 ```
 
@@ -77,6 +77,6 @@ Can you write a method in the JSON that you wrote above?
 
 Can you write comments in the JSON that you wrote above?
 
-```json
+```md
 <!-- your answer here -->
 ```
