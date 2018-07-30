@@ -8,28 +8,36 @@ search. We ask you to write responses in your own words in order to see how you
 process what you've read. Please do not respond with direct quotes from source
 material. Instead, digest what you've read and repeat it in your own voice.
 
-## Required Reading
+## Required Readings
 
 ### JSON
 
-JavaScript Object Notation (JSON) is a way to represent data. It is typically used to communicate data
-between an application programming interface (API) and a client. JSON is a string with a very specific format and it is formally defined at [http://www.json.org](http://www.json.org).
+JavaScript Object Notation (JSON) is a way to represent data. It is typically
+used to communicate data between an application programming interface (API) and
+a client. JSON is a string with a very specific format and it is formally
+defined at [http://www.json.org](http://www.json.org).
 
-A great way to become familiar with the format is to look at some [examples](http://www.json.org/example.html).
+Here's another brief explanation from a developer on [Stack Overflow](https://stackoverflow.com/questions/383692/what-is-json-and-why-would-i-use-it#answer-383699)
+
+A great way to become familiar with the format is to look at some
+[examples](http://www.json.org/example.html).
 
 JSON is:
--   a data exchange format.
--   a way to represent data.
--   a string with a specific format.
+
+- a data exchange format.
+- a way to represent data.
+- a string with a specific format.
 
 JSON is not:
--   a dictionary.
--   an object.
--   an object literal.
+
+- a dictionary.
+- an object.
+- an object literal.
 
 JSON does not support:
--   comments.
--   methods.
+
+- comments.
+- methods.
 
 Attempts to treat JSON as if it were a JavaScript object literal or as anything
 other than a string is a common source of errors that can be difficult to find
@@ -43,11 +51,11 @@ string.
 Write a JSON representation of the following data that makes sense to you.
 
 A kitchen has many items.
--   A cupboard containing bowls and plates.
--   An electric stove with four heating elements; small, medium, large, and
-    extra large.
--   An herbs and spices rack containing chives, lemon grass, and mint on one
-    rack, and cinnamon, nutmeg, and vanilla on another shelf.
+- A cupboard containing bowls and plates.
+- An electric stove with four heating elements; small, medium, large, and
+  extra large.
+- An herbs and spices rack containing chives, lemon grass, and mint on one
+  rack, and cinnamon, nutmeg, and vanilla on another shelf.
 
 ```json
 <!-- your answer here -->
