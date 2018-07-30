@@ -18,18 +18,21 @@ between an application programming interface (API) and a client. JSON is a strin
 A great way to become familiar with the format is to look at some [examples](http://www.json.org/example.html).
 
 JSON is:
--   a data exchange format.
--   a way to represent data.
--   a string with a specific format.
+
+- a data exchange format.
+- a way to represent data.
+- a string with a specific format.
 
 JSON is not:
--   a dictionary.
--   an object.
--   an object literal.
+
+- a dictionary.
+- an object.
+- an object literal.
 
 JSON does not support:
--   comments.
--   methods.
+
+- comments.
+- methods.
 
 Attempts to treat JSON as if it were a JavaScript object literal or as anything
 other than a string is a common source of errors that can be difficult to find
@@ -43,11 +46,11 @@ string.
 Write a JSON representation of the following data that makes sense to you.
 
 A kitchen has many items.
--   A cupboard containing bowls and plates.
--   An electric stove with four heating elements; small, medium, large, and
-    extra large.
--   An herbs and spices rack containing chives, lemon grass, and mint on one
-    rack, and cinnamon, nutmeg, and vanilla on another shelf.
+- A cupboard containing bowls and plates.
+- An electric stove with four heating elements; small, medium, large, and
+  extra large.
+- An herbs and spices rack containing chives, lemon grass, and mint on one
+  rack, and cinnamon, nutmeg, and vanilla on another shelf.
 
 ```json
 <!-- your answer here -->
