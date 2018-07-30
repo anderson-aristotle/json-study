@@ -8,14 +8,19 @@ search. We ask you to write responses in your own words in order to see how you
 process what you've read. Please do not respond with direct quotes from source
 material. Instead, digest what you've read and repeat it in your own voice.
 
-## Required Reading
+## Required Readings
 
 ### JSON
 
-JavaScript Object Notation (JSON) is a way to represent data. It is typically used to communicate data
-between an application programming interface (API) and a client. JSON is a string with a very specific format and it is formally defined at [http://www.json.org](http://www.json.org).
+JavaScript Object Notation (JSON) is a way to represent data. It is typically
+used to communicate data between an application programming interface (API) and
+a client. JSON is a string with a very specific format and it is formally
+defined at [http://www.json.org](http://www.json.org).
 
-A great way to become familiar with the format is to look at some [examples](http://www.json.org/example.html).
+Here's another brief explanation from a developer on [Stack Overflow](https://stackoverflow.com/questions/383692/what-is-json-and-why-would-i-use-it#answer-383699)
+
+A great way to become familiar with the format is to look at some
+[examples](http://www.json.org/example.html).
 
 JSON is:
 
