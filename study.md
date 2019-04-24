@@ -58,7 +58,19 @@ A kitchen has many items.
   rack, and cinnamon, nutmeg, and vanilla on another shelf.
 
 ```json
-<!-- your answer here -->
+
+{"kitchen": {
+    "cupboard": ["bowls", "plates"],
+    "electric stove": {
+        "size": ["small", "medium", "large", "extra large"]
+    },
+    "spice rack": {
+        "spiceRackOne": ["chives", "lemon grass", "mint"],
+        "spiceRackTwo": ["cinnamon", "nutmeg", "vanilla"]
+      }
+    }
+  }
+
 ```
 
 ## Modeling Data Using JSON: Part II
@@ -70,7 +82,22 @@ delicious apple.
 Copy the JSON that you wrote for the previous question and include the new information about the kitchen.
 
 ```json
-<!-- your answer here -->
+{"kitchen": {
+    "cupboard": ["bowls", "plates"],
+    "electric stove": {
+        "size": ["small", "medium", "large", "extra large"],
+    "cultivars": {
+      "apples": [["Fuji": 2], ["Gala": 7], ["Golden": 1]]
+    }
+
+    },
+    "spice rack": {
+        "spiceRackOne": ["chives", "lemon grass", "mint"],
+        "spiceRackTwo": ["cinnamon", "nutmeg", "vanilla"]
+      }
+    }
+  }
+
 ```
 
 ## JSON Methods
